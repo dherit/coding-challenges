@@ -1,10 +1,10 @@
 # coding-challenges
 
-This repository has 04/100 challenges to complete in this year. My goal it's learn more and more and improve my abilities. All the challenges are in the image bellow:
+This repository contains 4 out of 100 challenges that I plan to complete this year. My goal is to keep learning, improve my skills, and become better with each challenge. All challenges are shown in the image below.
 
 ![Image](challenges.jpg)
 
-The challenges are being done in Kotlin language.
+The challenges are being developed in Kotlin.
 
 ## Challenges finished
 * 00 - Name Generator -
