@@ -7,16 +7,23 @@ fun main() {
     val number = ('0'..'9').toMutableList()
     val especialChar = listOf("!", "@", "#", "$", "%", "&", "*")
     val vowel = listOf("a", "e", "i", "o", "u").toMutableList()
+    val MAX_NUMBER_SIZE_NAME = 3
+    val MAX_NUMBER_SIZE_PASSWORD = 10
 
-    for (i in 0 until 3) {
+    var name = ""
+
+    print("Username: ")
+    for (i in 0 until MAX_NUMBER_SIZE_NAME) {
         val username = alphabetLow.random()
         val vowel = vowel.random()
-        print(username)
-        print(vowel)
+        name += vowel + username
     }
+    print(name)
+
     println()
 
-    for (i in 0 until 10) {
+    print("Password: ")
+    for (i in 0 until MAX_NUMBER_SIZE_PASSWORD) {
         val char = if (Random.nextBoolean()){
             alphabetUpp.random()
         } else if (Random.nextBoolean()) {
