@@ -1,7 +1,5 @@
 package rockpaperscissors
 
-import kotlin.random.Random
-
 fun main() {
     while (true) {
 
@@ -38,7 +36,7 @@ fun main() {
         val menu = readln().toInt()
         when (menu) {
             0 -> continue
-            else -> return println("Invalid option")
+            else -> return println("Goodbye!")
         }
     }
 }
