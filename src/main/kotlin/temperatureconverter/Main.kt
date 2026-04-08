@@ -1,5 +1,8 @@
 package temperatureconverter
 
+import higherlower.backMenu
+
+
 fun main() {
 
     while (true) {
@@ -19,7 +22,7 @@ fun main() {
         val menu = readln().toInt()
         when (menu) {
             0 -> continue
-            else -> return println("Invalid option")
+            else -> return println("Goodbye!")
         }
 
     }
@@ -29,11 +32,6 @@ fun menu() {
     println("1 - Fahrenheit -> Celsius")
     println("2 - Celsius -> Kelvin")
     println("3 - Kelvin -> Celsius")
-}
-fun backMenu() {
-    println("Do you like back to main menu?")
-    println("0 - Yes")
-    println("1 - Exit")
 }
 fun ctof() {
     print("Type the temperature:")

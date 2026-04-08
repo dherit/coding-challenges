@@ -15,8 +15,10 @@ fun main() {
 
         backMenu()
         val menu = readln().toInt()
-        if (menu == 1) {
-            return
+        println()
+        when (menu) {
+            0 -> continue
+            else -> return println("Goodbye!")
         }
     }
 }
@@ -28,6 +30,7 @@ fun menu() {
     println("3 - Exit")
 }
 fun backMenu() {
+    println()
     println("Do you like back to main menu?")
     println("0 - Yes")
     println("1 - Exit")
