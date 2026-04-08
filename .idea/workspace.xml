@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91e45cb8-881e-4f02-b054-918b7d3b84b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/challenges/assets/encryptiondescryption.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges/assets/fizzbuzz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/encryptiondecryption/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/encryptiondecryption/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fizzbuzz/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fizzbuzz/fizzbuzz.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-challenges.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/META-INF/coding-challenges.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/META-INF/coding-challenges.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/higherlower/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/higherlower/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/rockpaperscissors/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/rockpaperscissors/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/temperatureconverter/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/temperatureconverter/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherlower/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/higherlower/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/rockpaperscissors/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/rockpaperscissors/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/temperatureconverter/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/temperatureconverter/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="91e45cb8-881e-4f02-b054-918b7d3b84b9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,22 +13,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dherit"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dherit&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dherit/coding-challenges.git",
-    "accountId": "2335203a-22c5-4225-978a-991f6e61ee23"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dherit/coding-challenges.git&quot;,
+    &quot;accountId&quot;: &quot;2335203a-22c5-4225-978a-991f6e61ee23&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3C4tmQw2oE9ft3hc7LOoBXDOZns" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -61,7 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "fixed-and-added-new-challenges",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/dherit-pc/IdeaProjects/coding-challenges/challenges/assets",
     "project.structure.last.edited": "Modules",
