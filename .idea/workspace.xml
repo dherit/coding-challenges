@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83c803f4-ae1d-4c86-bf64-0dccef445517" name="Changes" comment="fixed magic number in credentials">
+      <change beforePath="$PROJECT_DIR$/challenges/00-Name-Generator/00-Name-Generator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/00-Name-Generator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/00-Name-Generator/out/production/00-Name-Generator/META-INF/00-Name-Generator.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/00-Name-Generator/out/production/00-Name-Generator/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/00-Name-Generator/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/01-Higher-lower/01-Higher-lower.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/01-Higher-lower/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/01-Higher-lower/out/production/01-Higher-lower/META-INF/01-Higher-lower.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/01-Higher-lower/out/production/01-Higher-lower/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/01-Higher-lower/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/02-Temperature-converter/02-Temperature-converter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/02-Temperature-converter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/02-Temperature-converter/out/production/02-Temperature-converter/META-INF/02-Temperature-converter.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/02-Temperature-converter/out/production/02-Temperature-converter/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/02-Temperature-converter/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/06-Rock-paper-scissors/06-Rock-paper-scissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/06-Rock-paper-scissors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/06-Rock-paper-scissors/src/Main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dherit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dherit/coding-challenges.git&quot;,
+    &quot;accountId&quot;: &quot;2335203a-22c5-4225-978a-991f6e61ee23&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3C34HwjIRo1dGCtXcy1Wqrk88zz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.MainKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dherit-pc/IdeaProjects/coding-challenges",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dherit-pc\IdeaProjects\coding-challenges" />
+      <recent name="C:\Users\dherit-pc\IdeaProjects\coding-challenges\src\main\kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dherit-pc\IdeaProjects\coding-challenges\src\main\kotlin\namegenerator" />
+      <recent name="C:\Users\dherit-pc\IdeaProjects\coding-challenges\src\main\kotlin\06-Rock-paper-scissors" />
+      <recent name="C:\Users\dherit-pc\IdeaProjects\coding-challenges\src\main\kotlin" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="main.kotlin.00-Name-Generator" />
+      <recent name="main.kotlin.06-Rock-paper-scissors" />
+      <recent name="main.kotlin.02-Temperature-converter" />
+      <recent name="main.kotlin.01-Higher-lower" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c803f4-ae1d-4c86-bf64-0dccef445517" name="Changes" comment="" />
+      <created>1775600837232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775600837232</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixed magic number in credentials">
+      <option name="closed" value="true" />
+      <created>1775601019841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775601019842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed magic number in credentials" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed magic number in credentials" />
+  </component>
+</project>
