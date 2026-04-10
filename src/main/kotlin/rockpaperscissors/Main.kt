@@ -1,36 +1,27 @@
 package rockpaperscissors
 
 fun main() {
-    while (true) {
+        while (true) {
+            println("--- Rock, Paper or Scissors ---")
+            println("0 - Rock")
+            println("1 - Paper")
+            println("2 - Scissors")
+            val nameList = listOf<String>("Rock", "Paper", "Scissors").random()
+            var option = readln().toInt()
 
-        println("Choose rock, paper or scissors:")
-        println("0 - Rock")
-        println("1 - Paper")
-        println("2 - Scissors")
-        val option = readln().toInt()
+            val result = when (option) {
+                0 -> "Rock".toString()
+                1 -> "Paper".toString()
+                2 -> "Scissors".toString()
+                else -> return println("Goodbye!")
 
-        when {
-            option > 3 -> return println("Invalid option")
-        }
-
-        val nameList = listOf("Rock", "Paper", "Scissors")
-        val random = nameList.random()
-
-        var receive: String
-        receive = nameList[option]
-
-        println("$receive x $random")
-
-        val result = when {
-            random == receive -> "Draw"
-
-            receive == "Rock" && random == "Scissors" -> "You win!"
-            receive == "Paper" && random == "Rock" -> "You win!"
-            receive == "Scissors" && random == "Paper" -> "You win!"
-
-            else -> "You lose!"
-        }
-        println(result)
+            }
+            println("${result.toString()} x $nameList")
+            if (result == nameList) {
+                println("Draw")
+            } else if (result == "Rock" && nameList == "Scissors" || result == "Paper" && nameList == "Rock" || result == "Scissors" && nameList == "Paper") {
+                println("You win!")
+            } else println("You lose!")
 
         backMenu()
         val menu = readln().toInt()

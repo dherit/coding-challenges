@@ -14,7 +14,10 @@ fun main() {
             1 -> ftoc()
             2 -> ctok()
             3 -> ktoc()
-            else -> return println("Invalid option")
+            4 -> return println("Goodbye!")
+            else -> {println("Invalid option, try again")
+                println()
+                continue}
 
         }
 
@@ -24,7 +27,6 @@ fun main() {
             0 -> continue
             else -> return println("Goodbye!")
         }
-
     }
 }
 fun menu() {
@@ -32,6 +34,7 @@ fun menu() {
     println("1 - Fahrenheit -> Celsius")
     println("2 - Celsius -> Kelvin")
     println("3 - Kelvin -> Celsius")
+    println("4 - Exit")
 }
 fun ctof() {
     print("Type the temperature:")
