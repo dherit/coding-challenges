@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91e45cb8-881e-4f02-b054-918b7d3b84b9" name="Changes" comment="" />
+    <list default="true" id="91e45cb8-881e-4f02-b054-918b7d3b84b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/challenges/assets/hangman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges/assets/internettime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges/assets/lovecalculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges/assets/passwordpassphrase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges/assets/projecteuler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/hangman/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/hangman/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/internettime/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/internettime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lovecalculator/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lovecalculator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/passwordpassphrase/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/passwordpassphrase/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/projecteuler/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/projecteuler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/randomsentencegenerator/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/META-INF/coding-challenges.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/META-INF/coding-challenges.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/encryptiondecryption/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/encryptiondecryption/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/fizzbuzz/FizzbuzzKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/higherlower/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/higherlower/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/namegenerator/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/namegenerator/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/temperatureconverter/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/temperatureconverter/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/encryptiondecryption/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/encryptiondecryption/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fizzbuzz/fizzbuzz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fizzbuzz/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherlower/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/higherlower/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namegenerator/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/namegenerator/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/rockpaperscissors/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/rockpaperscissors/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/temperatureconverter/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/temperatureconverter/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,21 +66,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.FizzbuzzKt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "fixed-and-added-new-challenges",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dherit-pc/IdeaProjects/coding-challenges/challenges/assets",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.FizzbuzzKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HangmanKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ProjecteulerKt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;fixed-and-added-new-challenges&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dherit-pc/IdeaProjects/coding-challenges/challenges/assets&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dherit-pc\IdeaProjects\coding-challenges\challenges\assets" />

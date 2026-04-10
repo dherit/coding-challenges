@@ -10,7 +10,11 @@ fun main() {
         when (option) {
             1 -> higherLower()
             2 -> tossCoin()
-            3 -> return
+            3 -> return println("Goodbye!")
+            else -> {println("Invalid option, try again")
+                println()
+                continue
+            }
         }
 
         backMenu()
